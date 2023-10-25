@@ -1,2 +1,2 @@
-# MachineLearning
-Repository for learning ML algorithms
+# Linear Regression Algorithms
+
